@@ -4,7 +4,5 @@ Este repositorio está hecho para almacenar algunos programas que he desarrollad
 
 Explicaciones:
 
-Itertools/
-  itertools1.py
-
-Encontrar todas las combinaciones posibles entre más de una lista
+Itertools/itertools1.py
+- Encontrar todas las combinaciones entre más de una lista, de la librería itertools se utiliza product.
